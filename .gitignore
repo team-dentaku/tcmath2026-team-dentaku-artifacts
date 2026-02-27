@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Editor temp files
+*.swp
+*~
+
+# Environment files
+.env
+.env.*
+!.env.example
