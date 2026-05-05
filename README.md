@@ -11,6 +11,7 @@
 - `data/list_of_learning_items.jsonl`: 合成データセットの構築に使用した学習項目のリスト
 
 各プロンプトの用途などの詳細については、[システムレポート](https://llm-jp.github.io/tuning-competition/2026/pdfs/math_team003_report.pdf) を参照してください。
+また、学習したモデルや構築したデータセットは[huggingface hub](https://huggingface.co/team-dentaku)にて公開しています。
 
 ## 免責事項
 
